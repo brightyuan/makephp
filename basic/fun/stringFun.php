@@ -16,4 +16,8 @@ $name = formatNameWithOutPlatformId("cel_91_1");
 //var_dump($name);
 
 $detail['score'] = "+49377";
-var_dump(strpos($detail['score'], '-')===false);
+//var_dump(strpos($detail['score'], '-')===false);
+
+$t = "23415611";
+$r = strstr($t,'1');
+var_dump($r);

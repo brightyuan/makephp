@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4351102-df70-4afc-a0ae-a2226be3a55f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/basic/fun/closeure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/fun/sFork.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/fun/sGlob.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/Test.c" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/Test.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/array.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/array.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/controlStruct.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/controlStruct.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/dataType.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/dataType.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/dataWrite.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/dataWrite.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/date.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/date.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/echlist.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/echlist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/echo.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/echo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/for.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/for.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/interview.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/interview.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/operator.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/operator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/predefinevar.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/predefinevar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/random.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/random.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/reference.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/reference.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/serialize.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/serialize.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/type.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/type.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/var.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/var.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/basic/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/basic/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/core/arrayAccess.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/core/arrayAccess.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/core/trigger_error.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/core/trigger_error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/core/user_func.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/core/user_func.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/encryt/diff.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/encryt/diff.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/encryt/openssl.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/encryt/openssl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/ArrayFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/ArrayFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/Test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/anonyFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/anonyFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/arrayIntersect.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/arrayIntersect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/awayFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/awayFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/basicFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/basicFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/diffNum.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/diffNum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/dir.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/dir.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/extract.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/extract.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/fun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/fun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/json.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/json.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/ob_clean.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/ob_clean.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/paramFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/paramFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/returnfun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/returnfun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/stringFun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/stringFun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/trim.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/trim.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/uniqid.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/uniqid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/unnormal.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/unnormal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/urlencode.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/urlencode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/fun/variablefun.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/fun/variablefun.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/namespace/dofoo.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/namespace/dofoo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/namespace/foo.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/namespace/foo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic/namespace/namespaces.php" beforeDir="false" afterPath="$PROJECT_DIR$/basic/namespace/namespaces.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Test.c</find>
+      <find>pdo</find>
+      <find>mysql</find>
+      <find>.so</find>
+      <find>implicit_flush</find>
+      <find>zend_extensio</find>
+      <find>zend_extension</find>
+      <find>ext\</find>
+      <find>namespace</find>
+      <find>&lt;br&gt;</find>
+      <find>'/n'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/n</replace>
+      <replace>&quot;\n&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\coder\xcoder\docker\makephp\basic\fun</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="42bb5f52-602f-4006-92dd-28a8af74c7e5" />
+  <component name="PhpDebugGeneral" hide_empty_superglobals="false" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1jXxDNvpxiJch05fR8sADj9uRyE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597304071820" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coder\xcoder\docker\makephp\basic\namespace" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4351102-df70-4afc-a0ae-a2226be3a55f" name="Default Changelist" comment="" />
+      <created>1587868846506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587868846506</updated>
+      <workItem from="1587868848011" duration="3572000" />
+      <workItem from="1587891248120" duration="5047000" />
+      <workItem from="1588227191683" duration="195000" />
+      <workItem from="1590460353051" duration="20000" />
+      <workItem from="1597065459209" duration="2085000" />
+      <workItem from="1597300933054" duration="2997000" />
+      <workItem from="1597307076202" duration="4475000" />
+      <workItem from="1597633209115" duration="70000" />
+      <workItem from="1603964117873" duration="1681000" />
+      <workItem from="1607507919849" duration="31000" />
+      <workItem from="1609742905002" duration="20000" />
+      <workItem from="1609743005508" duration="35000" />
+      <workItem from="1609743133112" duration="57000" />
+      <workItem from="1609744203549" duration="75000" />
+      <workItem from="1609744289194" duration="108000" />
+    </task>
+    <task id="LOCAL-00001" summary="add namespace">
+      <created>1597301052114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597301052114</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add namespace">
+      <created>1597303034252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597303034252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add namespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="add namespace" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
