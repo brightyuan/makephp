@@ -38,13 +38,13 @@
 //    function connect() { /* ... */  }
 //}
 //
-//namespace { // 全局代码
+//namespace { // 全锟街达拷锟斤拷
 //    session_start();
 //    $a = MyProject\connect();
 //    use MyProject\Connection;
 //}
 
-namespace MyProject\Sub\Level;  //声明分层次的单个命名空间
+namespace MyProject\Sub\Level;
 
 const CONNECT_OK = 1;
 class Connection { /* ... */ }

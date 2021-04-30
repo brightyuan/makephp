@@ -6,7 +6,6 @@
  * Time: 21:36
  */
 
-//先加载文件，对应框架里autoload方法
 require_once "foo.php";
 
 

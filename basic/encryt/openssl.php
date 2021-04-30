@@ -7,12 +7,12 @@
  */
 
 $plaintext = "123456789";
-$cipher = "aes-128-gcm";  //¼ÓÃÜËã·¨
+$cipher = "aes-128-gcm";
 $key = 'afa';
 
 //print_r(openssl_get_cipher_methods());
 
-//¼ÓÃÜ
+//ï¿½ï¿½ï¿½ï¿½
 if (in_array($cipher, openssl_get_cipher_methods())) {
     $ivlen = openssl_cipher_iv_length($cipher);
     $iv = openssl_random_pseudo_bytes($ivlen);
@@ -20,6 +20,6 @@ if (in_array($cipher, openssl_get_cipher_methods())) {
     echo $ciphertext . "\n";
 }
 
-//½âÃÜ
+//ï¿½ï¿½ï¿½ï¿½
 $original_plaintext = openssl_decrypt($ciphertext, $cipher, $key, $options = 0, $iv, $tag);
 echo $original_plaintext . "\n";
